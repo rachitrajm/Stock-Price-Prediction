@@ -1,4 +1,4 @@
-# Stock-Price-Prediction-Using-Regression
+# Stock-Price-Prediction
 
 ### Dataset: S&P 500
 
